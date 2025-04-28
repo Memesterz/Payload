@@ -1,0 +1,6 @@
+<p style="color: #c42000;">test</p>
+<p style="color: #c42000;" onmouseover="alert(1);">test</p>
+<a href="javascript:alert(1);">Click here</a>
+\<a href="javascript:alert(1);"\>Click here\</a\>
+\u003C\u0070\u0020\u0073\u0074\u0079\u006C\u0065\u003D\u0022\u0063\u006F\u006C\u006F\u0072\u003A\u0020\u0023\u0063\u0034\u0032\u0030\u0030\u0030\u003B\u0022\u003E\u0074\u0065\u0073\u0074
+javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"`/+/onmouseover=1/+/[*/[]/+alert(42);//'>
